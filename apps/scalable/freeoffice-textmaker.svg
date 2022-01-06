@@ -21,7 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -52,7 +52,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1031"
+     inkscape:window-height="1028"
      id="namedview8"
      showgrid="false"
      inkscape:zoom="11.313708"
@@ -71,7 +71,7 @@
      r="13.232998"
      transform="matrix(1.75830584759 0 0 1.75830608345 -18.15909274367 -30.97874795549)"
      id="circle2"
-     style="fill:#6b92d1;fill-opacity:1" />
+     style="fill:#da8176;fill-opacity:1" />
   <path
      id="ellipse844"
      style="opacity:0.99;fill:#ffffff;fill-opacity:1;stroke-width:1.56227"
@@ -95,7 +95,7 @@
   </g>
   <path
      d="m 24.901542,40.345871 h -1.931423 v -7.521038 h -2.481431 v -1.611651 h 6.894284 v 1.611651 h -2.48143 z"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#6b92d1;fill-opacity:1;stroke:none;stroke-width:0.319772"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#da8176;fill-opacity:0.99215686;stroke:none;stroke-width:0.319772"
      id="path4573" />
   <g
      fill="none"
@@ -107,14 +107,14 @@
     <path
        d="M 15,8 H 32.5"
        id="path10"
-       style="stroke:#6b92d1;stroke-opacity:1" />
+       style="stroke:#da8176;stroke-opacity:0.99215686" />
     <path
        d="M 15,13 H 25"
        id="path12"
-       style="stroke:#6b92d1;stroke-opacity:1" />
+       style="stroke:#da8176;stroke-opacity:0.99215686" />
     <path
        d="M 15,18 H 32.5"
        id="path14"
-       style="stroke:#6b92d1;stroke-opacity:1" />
+       style="stroke:#da8176;stroke-opacity:0.99215686" />
   </g>
 </svg>
